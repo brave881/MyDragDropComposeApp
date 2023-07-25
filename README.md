@@ -14,9 +14,8 @@ The drag-and-drop functionality is implemented using the Draggable and Droppable
 
 In this project, the drag-and-drop functionality is used to launch apps. When you drag an app icon, the icon will be displayed in a floating window. You can then drop the icon onto another app icon to launch the app.
 
+![ezgif com-video-to-gif](https://github.com/brave881/MyDragDropComposeApp/assets/84896890/4e213a66-a7c7-45f5-b22f-04cb89a24dfc)
 
-https://github.com/brave881/MyDragDropComposeApp/assets/84896890/827dc35e-0587-4590-a2c8-7686f170cc4e
-[ Album ]
 
 To Do
 Add more apps to the list of apps that can be launched.
